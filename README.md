@@ -33,7 +33,7 @@
 <div align="center">
 
 <!-- ⚠️ Replace with your real URLs -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-b58863?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/himanie/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-b58863?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/himani-bisht-2926bb30a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f0d9b5?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1a1a1a)](https://)
 [![Profile Views](https://komarev.com/ghpvc/?username=himanie&style=for-the-badge&color=b58863&label=BOARD+VIEWS)](https://github.com/himanie)
 
